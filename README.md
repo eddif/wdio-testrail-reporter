@@ -1,3 +1,4 @@
+[![Board Status](https://eddifey.visualstudio.com/2195a2e8-00d0-4eee-9d56-a8631728e10e/889bc175-f38c-42a8-ad24-6238983726b8/_apis/work/boardbadge/fda2aedc-0d4a-41d6-bf19-bedf5b244040)](https://eddifey.visualstudio.com/2195a2e8-00d0-4eee-9d56-a8631728e10e/_boards/board/t/889bc175-f38c-42a8-ad24-6238983726b8/Microsoft.FeatureCategory)
 #Testrail Reporter for Webdriver.io
 
 Pushes test results into Testrail system.
